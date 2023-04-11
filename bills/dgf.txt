@@ -1,0 +1,6 @@
+bill breakdown: 
+asdfg:                   ...$565 
+dfg:                     ...$7.55 
+rdt:                     ...$3.77 
+tip:                     ...$0 
+total:                   ...$576.3199999999999 

@@ -1,0 +1,5 @@
+bill breakdown: 
+apple:                   ...$4.99 
+ball:                    ...$3.99 
+tip:                     ...$2.55 
+total:                   ...$11.530000000000001 
